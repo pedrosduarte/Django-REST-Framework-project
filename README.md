@@ -1,7 +1,7 @@
 # Atividade prática de Python/Django/DRF - Polícia Civil do Ceará
 
 Repositório da atividade prática referente ao processo seletivo de Pessoa Desenvolvedora Python júnior.
-
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 ## Instruções de inicialização
 
 -   Clonar esse repositório para a máquina local (`git clone`);
