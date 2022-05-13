@@ -8,10 +8,10 @@
 [submodule]
 	active = .
 [remote "origin"]
-	url = https://github.com/alanctnk/pcce_api_test.git
+	url = https://github.com/and3rcg/atividade1_pc_ce.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
-[branch "main"]
+[branch "master"]
 	remote = origin
-	merge = refs/heads/main
+	merge = refs/heads/master
 [lfs]
 	repositoryformatversion = 0
